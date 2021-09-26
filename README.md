@@ -1,2 +1,3 @@
 # k6-sample
-Sample k6 configurations to execute test runs
+
+Sample k6 configuration for a quick demonstration.
