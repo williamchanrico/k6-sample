@@ -1,8 +1,13 @@
-# k6-sample
+<h3 align="center">Sample <a href="https://github.com/grafana/k6">k6</a> configuration for a quick demonstration.</h3>
 
-Sample k6 configuration for a quick demonstration.
+<p align="center">
+    <a href="https://github.com/k6io/k6/releases">Download</a> ·
+    <a href="#install">Install</a> ·
+    <a href="https://k6.io/docs">Documentation</a> ·
+    <a href="https://community.k6.io/">Community</a>
+</p>
 
-## Setup
+## Run
 
 ```sh
 # Start Grafana and InfluxDB
